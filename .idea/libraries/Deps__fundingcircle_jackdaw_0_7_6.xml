@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: fundingcircle/jackdaw:0.7.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fundingcircle/jackdaw/0.7.6/jackdaw-0.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

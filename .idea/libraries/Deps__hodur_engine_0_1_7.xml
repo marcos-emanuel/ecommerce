@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: hodur/engine:0.1.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hodur/engine/0.1.7/engine-0.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
